@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Boni Kutela is an Assistant Research Scientist at Texas A&M Transportation Institute. His major areas of expertise include methodologies for roadway data analysis, machine learning and predictive modeling with a focus on traffic safety. He is equipped with knowledge on traffic simulations, data analysis, and visualization using R and Python as well as spatial analysis using GIS, QGIS, and GeoDa tools.
+Boni Kutela is an Assistant Research Scientist at Texas A&M Transportation Institute. His major areas of expertise include methodologies for roadway data analysis, machine learning and predictive modeling with a focus on traffic safety and operations. He is equipped with knowledge on traffic simulations, data analysis, and visualization using R and Python as well as spatial analysis using GIS, QGIS, and GeoDa tools.
 
 
