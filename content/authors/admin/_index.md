@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boni Kutela
+title: Boni Kutela, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Transportation Researcher
+role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
 - name: Texas A&M Transportation Institute
-  url: ""
+  url: "https://tti.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My major research focus is on Transportation Safety and Operations.
