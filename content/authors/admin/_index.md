@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Civil Engineering (Transportation)
+  - course: PhD in Transportation Engineering
     institution: University of Nevada Las Vegas
     year: 2019
   - course: MEng (Civil Engineering)
