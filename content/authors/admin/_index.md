@@ -21,7 +21,7 @@ organizations:
 bio: My major research focus is on Transportation Safety and Operations.
 
 interests:
-- Micro and Macro-mobility Safety and Operations 
+- Transport Safety and Operations 
 - Vulnerable Road Users' Safety
 - Emerging Technologies
 - Natural Language Processing
