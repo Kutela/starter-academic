@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Research of Traffic safety
+  * Research on Traffic Safety
   * Data Collection and Analysis
    """
 +++
