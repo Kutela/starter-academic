@@ -27,8 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  * Research of Traffic safety
+  * Data Collection and Analysis
+   """
 +++
